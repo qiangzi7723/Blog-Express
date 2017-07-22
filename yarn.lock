@@ -2426,6 +2426,10 @@ map-obj@^1.0.0, map-obj@^1.0.1:
   version "1.0.1"
   resolved "http://registry.npm.taobao.org/map-obj/download/map-obj-1.0.1.tgz#d933ceb9205d82bdcf4886f6742bdc2b4dea146d"
 
+marked@^0.3.6:
+  version "0.3.6"
+  resolved "http://registry.npm.taobao.org/marked/download/marked-0.3.6.tgz#b2c6c618fccece4ef86c4fc6cb8a7cbf5aeda8d7"
+
 math-expression-evaluator@^1.2.14:
   version "1.2.17"
   resolved "http://registry.npm.taobao.org/math-expression-evaluator/download/math-expression-evaluator-1.2.17.tgz#de819fdbcd84dccd8fae59c6aeb79615b9d266ac"
@@ -4046,6 +4050,10 @@ vue-template-es2015-compiler@^1.2.2:
 vue@^2.2.1:
   version "2.4.1"
   resolved "http://registry.npm.taobao.org/vue/download/vue-2.4.1.tgz#76e0b8eee614613532216b7bfe784e0b5695b160"
+
+vuex@^2.3.1:
+  version "2.3.1"
+  resolved "http://registry.npm.taobao.org/vuex/download/vuex-2.3.1.tgz#cde8e997c1f9957719bc7dea154f9aa691d981a6"
 
 watchpack@^1.3.1:
   version "1.4.0"

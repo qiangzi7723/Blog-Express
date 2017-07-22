@@ -7,6 +7,7 @@ var pool = mysql.createPool({
 });
 
 var query=function(sql,options,callback){
+    console.log(sql);
     pool.getConnection(function(err,conn){
         if(err){
             callback(err,null,null);
@@ -20,5 +21,5 @@ var query=function(sql,options,callback){
         }
     });
 };
-  
+
 module.exports=query;

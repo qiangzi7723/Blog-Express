@@ -5,7 +5,11 @@
   "license": "MIT",
   "devDependencies": {
     "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
     "express": "^4.15.3",
+    "express-session": "^1.15.4",
+    "moment": "^2.18.1",
     "mysql": "mysqljs/mysql"
   }
 }
